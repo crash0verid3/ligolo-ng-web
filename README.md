@@ -18,7 +18,7 @@ Ligolo-ng WebUI is a web application providing an intuitive user interface for t
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/ligolo-ng-webui.git
+   git clone https://github.com/nicocha30/ligolo-ng-webui.git
    cd ligolo-ng-webui
    ```
 
